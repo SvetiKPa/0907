@@ -1,0 +1,447 @@
+    1  date
+    2  cd
+    3  ssh-keygen
+    4  cd .ssh
+    5  ls -la
+    6  cat id_ed25519.pub
+    7  ssh ec2-user@linux.itcareerhub.de
+    8  scp -r ec2-user@linux.itcareerhub.de:/opt/250425-ptm/svetlana_p/test.txt .
+    9  scp -r ec2-user@linux.itcareerhub.de:/opt/250425-ptm/svetlana_p/test.txt .
+   10  scp -r C:/Users/1/test2.txt ec2-user@linux.itcareerhub.de:/opt/250425-ptm/svetlana_p/test3.txt
+   11  cd /opt/
+   12  pwd
+   13  pwd
+   14  ls -la
+   15  ssh  ec2-user@linux.itcareerhub.de
+   16  ec2-user@linux.it career hub.de
+   17  env
+   18  whoami
+   19  whereis
+   20  who
+   21  who
+   22  cd /
+   23  who
+   24  env
+   25  who
+   26  clear
+   27  ssh ec2-user@linux.itcareerhub.de~
+   28  ssh ec2-user@linux.it career hub.de
+   29  ec2-user@linux.it career hub.de
+   30  ssh ec2-user@linux.it career hub.de
+   31  ssh ec2-user@linux.it career hub.de
+   32  ssh ec2-user@linux.it career hub.de
+   33  ssh ec2-user@linux.itcareerhub.de
+   34  scp -r ec2-user@linux.itcareerhub.de:/opt/250425-ptm/svetlana_p/.process_management .
+   35  ssh ec2-user@linux.itcareerhub.de
+   36  top
+   37  ps
+   38  ps -ef
+   39  ssh ec2-user@linux.itcareerhub.de
+   40  ssh ec2-user@linux.itcareerhub.de
+   41  cd
+   42  cat .ssh/id_ed25519.pud
+   43  ssh ec2-user@linux.itcareerhub.de
+   44  scp -r ec2-user@linux.itcareerhub.de:/tmp/sv_p/newtextfile.txt .
+   45  ssh ec2-user@linux.itcareerhub.de
+   46  cat .ssh/id_ed25519.pud
+   47  cat .ssh/id_ed25519.pub
+   48  cd
+   49  mkdir 0206
+   50  cd 0206
+   51  ls -l
+   52  echo "# 0206" >> README.md
+   53  cd 0206
+   54  ls -l
+   55  cd /0206
+   56  git init
+   57  git add README.md
+   58  git add .
+   59  git status
+   60  git commit -m "added new file README.md"
+   61  git config --global user.email "t7svpa@gmail.com"
+   62  git config --global user.name "SvetiKPa"
+   63  git status
+   64  git branch -M main
+   65  git remote add origin git@github.com:SvetiKPa/0206.git
+   66  git push -u origin main
+   67  git status
+   68  cd
+   69  mkdir 0406
+   70  cd 0406
+   71  cd ..
+   72  cd ~
+   73  mkdir -p git_intro
+   74  pwd
+   75  ls -la
+   76  cd git_intro
+   77  pwd
+   78  git init
+   79  ls -l
+   80  echo "# my home work" >> README.md
+   81  git init
+   82  ls -l
+   83  git init
+   84  git status
+   85  git add 
+   86  git add README.md
+   87  git add pexels-francesco-ungaro-2325447.jpg README.md
+   88  git status
+   89  git commit -m "added 2 files {README.md pexels}"
+   90  git branch -M main
+   91  git status
+   92  git remote add origin git@github.com:SvetiKPa/git_intro.git
+   93  git push -u irgin main
+   94  git push -u origin main
+   95  history
+   96  cd
+   97  git branch
+   98  mkdir 1006
+   99  cd 1006
+  100  ls -la
+  101  git init
+  102  ls -la
+  103  touch 123.txt
+  104  ls -la
+  105  git branch
+  106  git status
+  107  git add 123.txt
+  108  git commit "new file"
+  109  git commit -m "new file"
+  110  git branch
+  111  git branch -M main
+  112  git remote -v
+  113  git remote add origin git@github.com:SvetiKPa/1006.git
+  114  git remote -v
+  115  git push -u origin main
+  116  git push --force
+  117  git push -f
+  118  git push --set-upstream origin main
+  119  git push --force
+  120  git pull
+  121  git pull origin main
+  122  git status
+  123  git fetch 
+  124  git fetch origin main
+  125  git status
+  126  ls -la
+  127  git merge origin/main
+  128  git status
+  129  ls -la
+  130  git pull origin main --allow-unrelated-histories
+  131  ls -l
+  132  ls -la
+  133  git status
+  134  git log
+  135  git push -u origin main
+  136  pwd
+  137  git branch
+  138  git checkout -b test
+  139  git branch
+  140  git log
+  141  touch test.txt
+  142  ls -la
+  143  git status
+  144  git add .
+  145  git commit -m "new test.txt"
+  146  git log
+  147  git checkout main
+  148  ls -la
+  149  git log
+  150  git merge main
+  151  git branch
+  152  git branch -d test
+  153  git branch -D test
+  154  git log --oneline
+  155  git log --oneline --graph
+  156  git log --oneline
+  157  git checkout
+  158  git chckout aea37ae
+  159  git switch -c bootfix
+  160  git log
+  161  git log
+  162  git log --oneline --graph
+  163  git switch bootfix
+  164  ls -la
+  165  rm 123.txt
+  166  git add .
+  167  git log
+  168  git log --oneline
+  169  git checkout main
+  170  git log --online
+  171  git log --oneline
+  172  git checkout gitignore
+  173  git checkout -b gitignore
+  174  nano .gitignore
+  175  git switch main
+  176  gir merge origin gitignore
+  177  touch 2.txt
+  178  touch 3.txt
+  179  touch 1.rar
+  180  git switch main .gitignore
+  181  git add .
+  182  git status
+  183  git push
+  184  git status
+  185  cd..
+  186  cd
+  187  git clone git@github.com:SvetiKPa/1006.git
+  188  ssh ec2-user@linux.itcareerhub.de
+  189  ssh ec2-user@linux.itcareerhub.de
+  190  ssh ec2-user@linux.itcareerhub.de
+  191  mkdir -p test
+  192  cd test
+  193  ls -la test
+  194  git init
+  195  git branch -m main
+  196  touch /test/file.txt
+  197  touch file.txt
+  198  echo "Hallo" > file2.txt
+  199  ls -la /test
+  200  git status
+  201  git add .
+  202  git status
+  203  git rm --cached file.txt
+  204  git commit -m "Added 2 file"
+  205  git add .
+  206  git status
+  207  git checkout -b bugfix
+  208  ls -la
+  209  touch README.md
+  210  git add README.md
+  211  git commit -m "added file README.md"
+  212  vi .gitignore
+  213  git status
+  214  git add .
+  215  git commit -m "added file .gitignore"
+  216  git status
+  217  git switch main
+  218  git merge bugfix
+  219  git status
+  220  git log
+  221  git log --oneline
+  222  >> file.txt
+  223  git commit -am "changed file.txt"
+  224  git add .
+  225  git commit -m "changed file.txt"
+  226  echo "" >> file.txt
+  227  git status
+  228  git status
+  229  git add.
+  230  git add .
+  231  git log --graph
+  232  cd ..
+  233  rm -r test
+  234  mkdir mkdir testing && cd testing && git init
+  235  git branch -m main
+  236  ls 
+  237  echo "Privet" > text.txt
+  238  git add .
+  239  git commit -m "first commit"
+  240  git checkout -b 'feature'
+  241  echo "Это новая строка из feature" >> text.txt
+  242  git add .
+  243  got commit -m "second commit in feature"
+  244  git switch main
+  245  echo "new line in main" >> text.txt~
+  246  cd 
+  247  cd testing
+  248  git status
+  249  git add .
+  250  git merge feature 
+  251  got commit -m "second commit in mail"
+  252  git add .
+  253  git merge feature 
+  254  git switch feature 
+  255  echo "new " >> file.txt
+  256  git add .
+  257  git status
+  258  git switch main
+  259  git merge feature 
+  260  vi text.txt
+  261  git status
+  262  git add .
+  263  git commt -m "konflikt"
+  264  git log --graph
+  265  git log --oneline
+  266  gitk -all
+  267  cd/
+  268  cd /
+  269  ls -la
+  270  cd /users/1
+  271  cd /users/1
+  272  history
+  273  cd
+  274  mkdir -p git_branch
+  275  cd git_branch/
+  276  ls -la
+  277  echo "new git_branch" >> README.md
+  278  git init
+  279  cd /users/git branch -M main
+  280  git status
+  281  git branch -M main
+  282  git add .
+  283  git commit -m "added new README.md"
+  284  git status
+  285  git remote add origin git@github.com:SvetiKPa/git_branch.git
+  286  git push -u origin main
+  287  touch file1.txt
+  288  echo "hallo git_branch" >> file1.txt 
+  289  git status 
+  290  git commit -m "added file1.txt" 
+  291  git add .
+  292  git status
+  293  git checkout -b gitignore
+  294  touch file1.txt
+  295  git status
+  296  echo "file1.txt in branch gitignore" >> file1.txt
+  297  git status
+  298  git commit -m "file1.txt in branch gitignore"
+  299  git add .
+  300  git status
+  301  git push -u origin gitignore
+  302  git status
+  303  git switch main
+  304  git log --oneline --graph
+  305  git status
+  306  ssh ec2-user@linux.itcareerhub.de
+  307  ssh ec2-user@linux.itcareerhub.de
+  308  ssh ec2-user@linux.itcareerhub.de
+  309  ssh ec2-user@linux.itcareerhub.de
+  310  ssh ec2-user@linux.itcareerhub.de
+  311  ssh ec2-user@linux.itcareerhub.de
+  312  ssh ec2-user@linux.itcareerhub.de
+  313  ssh ec2-user@linux.itcareerhub.de
+  314  scp -r ec2-user@linux.itcareerhub.de:/opt/250425-ptm/svetlana_p/arhiv.tar.gz .
+  315  mkdir -p 300625_new
+  316  echo "# 300625_new" >> README.md
+  317  cd 300625_new
+  318  echo "# 300625_new README.md" >> README.md
+  319  git init
+  320  git add .
+  321  git branch -M main
+  322  echo "*.rar" >> .gitignore
+  323  echo "*.tar.gz" >> .gitignore
+  324  git clone git@github.com:SvetiKPa/300625_new.git
+  325  git checkout -b feature
+  326  git commit -m "new branch feature" 
+  327  git add .
+  328  git status
+  329  echo "*.rar" >> .gitignore
+  330  git status
+  331  git add .
+  332  git push origin feature
+  333  cd 
+  334  df -h
+  335  cd /c
+  336  cd /d
+  337  ls -l
+  338  cd /users/1
+  339  cd
+  340  git clone 200~git@github.com:SvetiKPa/git-PR.git
+  341  git clone git@github.com:SvetiKPa/git-PR.git
+  342  cd git-pr
+  343  git remote -v
+  344  git remote add upstream https://github.com/SvetiKPa/git-PR.git
+  345  git remote -v
+  346  git remote add upstream https://github.com/iohichu/git-PR.git
+  347  git remote remove upstream
+  348  git remote -v
+  349  git remote add upstream https://github.com/iohichu/git-PR.git
+  350  git remote -v
+  351  git fetch upstream
+  352  git merge upstream/main
+  353  git push
+  354  git fetch all
+  355  git fetch -all
+  356  git fetch --all
+  357  git merge upstream/main
+  358  ls -la
+  359  git push
+  360  git status
+  361  git fetch --all
+  362  git fetch upstream 
+  363  git remote -v
+  364  git remote -v
+  365  git fetch 
+  366  git fetch --all
+  367  git push
+  368  git remote -v
+  369  git fetch
+  370  git merge upstream/main
+  371  git remote -v
+  372  git push
+  373  git status
+  374  git checkout -b dir111
+  375  touch test_file.txt
+  376  echo "4545" >> test_file.txt
+  377  git status
+  378  git add .
+  379  git push
+  380  git remote -v
+  381  git add.
+  382  git add .
+  383  git status
+  384  git push
+  385  git switch main
+  386  git status
+  387  git merge 
+  388  git push
+  389  git status
+  390  history >> history_01_07_25
+  391  cat history_01_07_25 
+  392  git merge upstream/main
+  393  ssh ec2-user@linux.itcareerhub.de
+  394  git clone [200~
+  395  git clone git@github.com:SvetiKPa/learning_git.git
+  396  cd learning_git
+  397  git branch -b newbranch
+  398  git checkout -b newbranch
+  399  ls -l
+  400  mkdir 250425-ptm
+  401  touch 250425-ptm/svetlana.txt
+  402  git status
+  403  git add .
+  404  git status
+  405  git commit -m "dir und file"
+  406  git status
+  407  git switch main
+  408  git merge newbranch 
+  409  git push
+  410  git branch
+  411  git branch -d newbranch
+  412  git status
+  413  ssh ec2-user@linux.itcareerhub.de
+  414  history
+  415  mkdir -p git0907
+  416  mkdir -p 090725new
+  417  cd 090725new
+  418  touch .gitignore
+  419  echo "*.rar" >> *.gitignore
+  420  cat .gitignore 
+  421  echo "*.rar" > .gitignore
+  422  cat ,giignore
+  423  cat .gitignore 
+  424  echo "# 090725new" >> README.md
+  425  git init
+  426  git add .
+  427  git clone https://github.com/SvetiKPa/0907.git
+  428  cd 0907
+  429  git checkout -b feature
+  430  vi README.md
+  431  vi .gitignore 
+  432  git add .
+  433  git add README.md .gitignore
+  434  git commit -m "Initial changes in feature branch"
+  435  git push origin feature
+  436  git status
+  437  git push origin feature
+  438  git commit --amend -m "Initial changes in feature branch amend"
+  439  git status
+  440  git add.
+  441  git push origin feature --force
+  442  git checkout main
+  443  git merge feature
+  444  git status
+  445  git log --oneline --graph --all
+  446  git log --oneline --graph
+  447  history > history_0709.txt
